@@ -1,3 +1,18 @@
 [submodule "libft"]
 	path = libft
 	url = git@github.com:Baldbutgold/libft.git
+[submodule "get_next_line"]
+	path = get_next_line
+	url = git@github.com:Baldbutgold/get_next_line.git
+[submodule "ft_printf"]
+	path = ft_printf
+	url = git@github.com:Baldbutgold/ft_printf.git
+[submodule "minitalk"]
+	path = minitalk
+	url = git@github.com:Baldbutgold/minitalk.git
+[submodule "pushswap"]
+	path = pushswap
+	url = git@github.com:Baldbutgold/pushswap.git
+[submodule "so_long"]
+	path = so_long
+	url = git@github.com:Baldbutgold/so_long.git
